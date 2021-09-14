@@ -27,3 +27,7 @@ export DXVK_FRAME_RATE="144"
 # Path
 export PATH=/bin:/usr/bin/:/usr/local/bin
 export PATH=$PATH:$HOME/.local/bin
+
+# Aliases
+alias reload='source ~/.profile'
+alias radeontop="radeontop -c -T"
